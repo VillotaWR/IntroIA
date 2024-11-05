@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cornavega>008080</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Introducción a la Inteligencia Artificial y ChatGPT</titulo>
+        <subtitulo>Wellington Villota - Repasa lo aprendido</subtitulo>
+        <autor>Wellington Villota O</autor>
+        <logo>logo.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="correcto.mp3" modo="1" >Muy bien!</correcto>
+        <incorrecto son="incorrecto.mp3" modo="1" >Vuelva a intentarlo</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>11</tipo>
+              <cabeceira>Arrastra la palabra que representa cada una de las industrías en donde la Inteligencia Artificial ha impactado su funcionamiento</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Automotriz">img-automotriz.png</cousa>
+              <cousa nome="Salud">salud.png</cousa>
+              <cousa nome="Manufactura">manufactura.png</cousa>
+              <cousa nome="Energía">energia.png</cousa>
+              <cousa nome="Finanzas">finanzas.png</cousa>
+        </paxina>
+    </libro>
+</lim>
